@@ -1,0 +1,2 @@
+# sharp-brain-add-debian-packages
+armelアーキテクチャのdebパッケージを便利にダウンロードすることを目的としていたbashスクリプト。供養
